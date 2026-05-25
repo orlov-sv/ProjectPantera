@@ -2,7 +2,7 @@ package orlov.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
-import lombok.Setter;
+
 
 @AllArgsConstructor @Getter
 public class Question {
@@ -13,5 +13,6 @@ public class Question {
    private String secondAnswerText;
    private String firstAnswerNextStep;
    private String secondAnswerNextStep;
+   private String image;
 
 }

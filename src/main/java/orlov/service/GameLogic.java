@@ -50,7 +50,7 @@ public class GameLogic {
                 null,
                 "images/wd40.png"));
         questionMap.put("win3", new Question(
-                "Используй изолент",
+                "Используй изоленту",
                 null,
                 null,
                 null,
